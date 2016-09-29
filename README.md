@@ -19,8 +19,10 @@ Folder `fork`, is used to store the 404 pages designed by others.
 
 ## Web
 
-Folder `web`, is used to store the 404 pages used in famous websites.
+Folder `web`, this is just a awesome list of 404 web pages.
 
-## List
-
-Folder `list`, this is just a awesome list of 404 web pages.
+- [Airbnb](https://www.airbnb.com/404)
+- [CSS Ninja] (http://www.cssninjas.com/404)
+- [Github](https://github.com/404)
+- [SegmentFault](https://segmentfault.com/404)
+- [QQ](http://www.qq.com/404)
