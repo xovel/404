@@ -14,7 +14,7 @@
 <style type="text/css">
 * {font-family:'San Francisco','Noto SansCJK','microsoft yahei',helvetica,arial;margin:0;padding:0;}
 body {background-color:#DDD9D7;}
-.zmain { margin:50px auto; width:500px;}
+.zmain { margin:50px auto; max-width:500px; padding:0 10px;}
 .clear { clear:both;margin:0;padding:0;}
 .errtitle {text-align:center; font-size:28px;  color:orange; text-shadow:#999 1px 1px 1px; border-bottom:#d4d4d4 2px solid; padding-bottom:10px;}
 .errnote {margin-top:10px; font-size:16px;}
@@ -24,8 +24,13 @@ body {background-color:#DDD9D7;}
 .errnote ul li { list-style:square; margin:5px 0 5px 2em;; }
 .errnote .errfr { float:right; width:180px; background-color:green; height:120px; padding:20px;}
 .errtip { background-color:magenta; height:100px;width:160px;}
-.backtoindex {color:red;float:right; font-size:22px; width:100px;height:30px;line-height:30px; vertical-align:middle; cursor:hand; padding-right:30px;}
+.backtoindex {color:red;float:right; font-size:22px; width:100px;height:30px;line-height:30px; vertical-align:middle; cursor:pointer;}
 .backtoindex a {color:red; text-decoration:none; text-shadow:#999 1px 1px 1px,#999 -1px -1px 1px,#999 1px -1px 1px,#999 -1px 1px 1px;}
+
+@media screen and (max-width: 500px){
+  .errnote p span{ display: none; }
+}
+
 </style>
 </head>
 
