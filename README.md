@@ -1,5 +1,5 @@
 # 404
-Some elegant 404 web pages
+Some elegant 404 web pages.
 
 ## User Design
 
@@ -7,7 +7,7 @@ Folder `ud`, is used to store the 404 pages designed by me.
 
 ### [404-1.html](http://xovel.cn/404/ud/404-1.html)
 
-Designed in 2016.9.29, used in official website of my current company. Photoed by Zhou, the UI Desiner.
+Designed in 2016.9.29, used in official website of my current company. Photoed by Zhou, the UI Designer.
 
 ### [404-2.html](http://xovel.cn/404/ud/404-2.html)
 
