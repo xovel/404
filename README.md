@@ -32,8 +32,6 @@ Folder `fork`, is used to store the 404 pages designed by others.
 
 **A creepy, and somewhat disturbing, 404 page**
 
-<http://hakim.se/experiments/404>
-
 [Online demo](http://xovel.cn/404/fork/hakimel/404.html)
 
 - Deleted `header`
