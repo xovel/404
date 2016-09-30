@@ -17,7 +17,7 @@ Designed in 2014 approximately, this has been used in almost all websites manage
 
 Folder `fork`, is used to store the 404 pages designed by others.
 
-### mispy/404
+### [mispy/404](https://github.com/mispy/404)
 
 **Twinkly stars canvas 404 page**
 
@@ -25,8 +25,18 @@ Folder `fork`, is used to store the 404 pages designed by others.
 
 [Online demo](http://xovel.cn/404/fork/mispy/404.html)
 
-- Deleted `jstat.js`.
-- Ignored unused picture.
+- Deleted `jstat.js`
+- Ignored unused picture
+
+### [hakimel/404](https://github.com/hakimel/404)
+
+**A creepy, and somewhat disturbing, 404 page**
+
+<http://hakim.se/experiments/404>
+
+[Online demo](http://xovel.cn/404/fork/hakimel/404.html)
+
+- Deleted `header`
 
 ## Web
 
