@@ -48,3 +48,5 @@ Folder `web`, this is just an awesome list of 404 web pages.
 - [掘金](http://gold.xitu.io/404)
 - [Stackoverflow](http://stackoverflow.com/404)
 - [Mozilla](https://www.mozilla.org/en-US/404), [Mozilla-zh-CN](https://www.mozilla.org/zh-CN/404)
+- [Sina](http://www.sina.com.cn/404)
+- [IT之家](http://www.ithome.com/404)
