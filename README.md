@@ -36,6 +36,13 @@ Folder `fork`, is used to store the 404 pages designed by others.
 
 - Deleted `header`
 
+### [xuanfeng/404](https://github.com/xuanfeng/404)
+
+[Online demo](http://xovel.cn/404/fork/xuanfeng/404.html)
+
+- Obscured the website page
+- Prevent the action of automatic webpage jump
+
 ## Web
 
 Folder `web`, this is just an awesome list of 404 web pages.
