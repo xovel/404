@@ -1,7 +1,15 @@
-# A list of famous website's 404 web page.
+# Offline files of the 404 web pages.
 
-- [Airbnb](https://www.airbnb.com/404)
-- [CSS Ninja] (http://www.cssninjas.com/404)
-- [Github](https://github.com/404)
-- [SegmentFault](https://segmentfault.com/404)
-- [QQ](http://www.qq.com/404)
+## Airbnb
+
+[Online Demo](http://xovel.cn/404/web/airbnb/404.html)
+
+- Pretty print the css
+- Change the anchor link by add `#` as a prefix
+- Commented `@font-face`
+
+TODO:
+
+- [ ] Purify the css
+
+
